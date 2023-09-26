@@ -1,0 +1,17 @@
+To Add Cell_References
+Developer>VisualBasis
+1.To repeat a same value in many cells use:
+    ActiveCell.Value = "hehe"
+  *hehe will pe printed in the mouse pointed cell*
+2.if you want to put a value in a specified cell use:
+     [E5].Value = "YouTube" or Range("C1") = "Hmm"
+  For range:
+     [A1:B9].Value = "YouTube" or Range("G1:G12") = "Code"
+3.if we have two activecell.value the last one will be readed 
+4.But i we want our code to be readed first by our choice then
+      Debug>StepInto or press'F8'
+  F8 will step into the the command that you want to run
+
+                   <METHOD 2>
+              Cells(5,4)="hello"
+     *where 5 is a column and 4 is a row*

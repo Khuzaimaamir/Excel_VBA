@@ -1,0 +1,11 @@
+All fonts properties:
+Range("C1:C6").Font.Name = "Bahnschrift Condensed"
+Range("C1:C6").Font.Italic = True
+Range("C1:C6").Font.Underline = True
+Range("C1:C6").Font.Bold = True
+Range("C1:C6").Font.Superscript = True
+Range("C1:C6").Font.Subscript = False
+Range("C1:C6").Font.Size = 40
+Range("C1:C6").Font.Color = vbBlue
+
+*All colors default starts with vb*

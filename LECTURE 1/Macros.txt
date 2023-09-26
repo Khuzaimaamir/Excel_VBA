@@ -1,0 +1,12 @@
+To make a macro
+If you have tasks in Microsoft Excel that you do repeatedly, you can record a macro to automate those tasks.
+A macro is an action or a set of actions that you can run as many times as you want. When you create a macro,
+you are recording your mouse clicks and keystrokes.
+
+1.go to view
+2.see at the top right of the page=>macros
+3.create a macro(but there a only few letters in which you can make a shortcut key)
+4.start recording macro
+5.then write text;make a table etc.then stop recording
+6.open new sheet and press the shortcut key you made for that macro
+7.hence the sample thing will be pasted with all settings

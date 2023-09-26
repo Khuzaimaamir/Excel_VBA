@@ -1,0 +1,6 @@
+Developer>VisualBasics>Insert>Userforms
+1.Press user forms 
+2.rClick>Tools
+3.Select tools drag and drop 
+4.Then double click the selected tool for putting the code in it
+5.Then use the top right list bar for adding events

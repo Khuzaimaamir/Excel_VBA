@@ -1,0 +1,7 @@
+If we want to concatenate the value
+1.[I16].Value = "Hello"
+  [I16].Value = [I16].Value + " World!"
+
+if we want to copy & paste:
+1.[I16].Copy
+2.[j1].PasteSpecial

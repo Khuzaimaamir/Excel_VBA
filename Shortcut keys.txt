@@ -1,0 +1,4 @@
+1.for makeing data into a table (ctrl+T)
+2.For making comment in a cell.(shif+F2)
+3.for making links insert>link
+4.for new line in a cell(ALT+ENTER)

@@ -1,0 +1,15 @@
+1.Range("D1:D8").Font.ColorIndex = 30 (iski range 56 tak hai colors ki)
+
+For Background
+2.Range("D1:D8").Interior.color = vbYellow
+
+For Gradient Background
+3.Range("D1:D8").Interior.Pattern = xlPatternLinearGradient
+
+But if we want with all columns so we will give a range
+4.With Range("G5:G13").Font
+  .Name = "times new roman"
+  .Bold = True
+  .Size = 20
+  .Strikethrough = True
+  End With

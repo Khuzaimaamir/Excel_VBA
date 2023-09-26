@@ -1,0 +1,10 @@
+To add a notification
+Developer>VisualBasis
+1.Go to module1 in Modules
+2.Ten write the code Sub 
+ MsgBox "Hello",vbainformation(tab will open auto),"Greetings"
+                              OR
+ MsgBox "Are you a daily excel user?", vbYesNo, "Question"
+
+                       <<ALERT>>
+by saving the macro file say to then enable the "excel Macro_Enabled Workbook"
